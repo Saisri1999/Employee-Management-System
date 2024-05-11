@@ -1,0 +1,28 @@
+.main{
+	width:80%;
+	margin-left:150px;
+	margin-top:100px;
+}
+.mainb{
+	width:80%;
+	margin-left:80px;
+	margin-top:10px;
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNnvqbpovTyWffRbRexTk_t7K2vnUUcuMeg&usqp=CAU');
+	background-position: center;
+	background-size: cover;
+	justify-content: center;
+	min-height: 90vh;
+	width: 90%;
+}
+#div1{
+	margin-left: 0px;
+	position: relative;
+}
+label{
+	font-family: bold;
+}
+.maine{
+	width:80%;
+	margin-left:130px;
+	margin-top:40px;
+}
